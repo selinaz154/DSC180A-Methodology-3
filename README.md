@@ -1,3 +1,3 @@
 # DSC180A-Methodology-3
-Selina Zhang
-xiz154@ucsd.edu
+
+Selina Zhang and Jiaxin Yang
